@@ -213,7 +213,19 @@ namespace FetchXML2SQLv2
 				}
 			
 			XmlDocument xmldoc = new XmlDocument();
-			xmldoc.LoadXml(fetchXMLBox.Text);
+			
+			try 
+			{				
+				xmldoc.LoadXml(fetchXMLBox.Text);
+			}
+			
+			catch (Exception)
+			{
+				MessageBox.Show("Looks like this is not a valid fetchXML!", "Please Check", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+				return;
+			}
+						
+			
 			
 			//Clear all contents from output and lists
 			sqlBox.Text = "";
