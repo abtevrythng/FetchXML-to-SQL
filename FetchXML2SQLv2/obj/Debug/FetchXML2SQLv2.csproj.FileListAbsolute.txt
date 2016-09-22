@@ -1,0 +1,8 @@
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\bin\Debug\FetchXML2SQLv2.exe.config
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\bin\Debug\FetchXML2SQLv2.exe
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\bin\Debug\FetchXML2SQLv2.pdb
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\obj\Debug\FetchXML2SQLv2.csprojResolveAssemblyReference.cache
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\obj\Debug\FetchXML2SQLv2.MainForm.resources
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\obj\Debug\FetchXML2SQLv2.csproj.GenerateResource.Cache
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\obj\Debug\FetchXML2SQLv2.exe
+D:\Learning\FetchXML to SQL\DotNet\FetchXML2SQLv2\FetchXML2SQLv2\obj\Debug\FetchXML2SQLv2.pdb
