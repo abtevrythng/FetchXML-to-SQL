@@ -10,7 +10,8 @@
     <AssemblyName>FetchXML2SQLv2</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <ApplicationIcon>..\..\..\..\..\Downloads\sql.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
     <NoWin32Manifest>False</NoWin32Manifest>
     <SignAssembly>False</SignAssembly>
     <DelaySign>False</DelaySign>
@@ -68,7 +69,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MainForm.cs" />
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
@@ -77,6 +80,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
+    <None Include="fetch.xsd">
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MainForm.resx">
