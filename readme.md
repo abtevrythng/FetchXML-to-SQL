@@ -1,4 +1,7 @@
 # DEPRECATED
+- I don't have access to Dynamics CRM anymore.
+- Feel free to fork the project and take over.
+
 ⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
 
 ## Convert fetchXML to SQL 
