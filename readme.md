@@ -1,4 +1,7 @@
-# Convert fetchXML to SQL 
+# DEPRECATED
+⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
+
+## Convert fetchXML to SQL 
 ![FetchXML2SQL in Action](/FetchXML2SQLv2/screenshots/mainwindow.png)
 ## Synopsis
 > This is a work in progress...
@@ -15,3 +18,5 @@ It just parse the fetchXML file and creates SQL statements based on the input, j
 2. Nested filters in fetchXML such as 
   <filter type="and"><filter type="or"><condition attribute="createdon" operator="on-or-before" value="@Enddate" /><condition attribute="caseorigincode" operator="ne" value="3" /><filter type="or"><condition attribute="createdon" operator="on-or-before" value="@NEWEnddate" /><condition attribute="caseorigincode" operator="ne" value="4" /></filter></filter></filter>
 3. You tell me! Please add some issues to work on.
+
+⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️⛔️
